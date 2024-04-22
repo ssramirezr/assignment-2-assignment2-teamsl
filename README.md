@@ -13,7 +13,7 @@ Development of the proposed activity for the subject of Formal Languages and Com
 ## About
 - The program was executed on Windows OS.
 - The chosen language was Python.
-- A libray called [Tabulate](https://pypi.org/project/tabulate/) was used to visualize the behavior of the CYK algorithm, it is optional to test this feature.
+- A library called [Tabulate](https://pypi.org/project/tabulate/) was used to visualize the behavior of the CYK algorithm, it is optional to test this feature.
 - The code editor used was Visual Studio Code.
 
 ## Installing Requirements
